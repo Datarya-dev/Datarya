@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 440">
+<rect width="360" height="440" fill="#e1dcda"/>
+<ellipse cx="180" cy="300" rx="102" ry="72" fill="none" stroke="#0d0d0d" stroke-width="16" opacity=".9"/>
+<circle cx="180" cy="194" r="44" fill="#732f3b"/>
+<circle cx="180" cy="194" r="20" fill="#f2f2f2" opacity=".65"/>
+<text x="24" y="52" font-family="Arial" font-size="10" letter-spacing="3" fill="#0d0d0d" opacity=".5">AUREA / 01</text>
+</svg>

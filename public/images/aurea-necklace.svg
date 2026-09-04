@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 440">
+<rect width="360" height="440" fill="#d9d2d0"/>
+<path d="M78 105 Q180 250 282 105" fill="none" stroke="#0d0d0d" stroke-width="7"/>
+<path d="M108 125 Q180 220 252 125" fill="none" stroke="#73030d" stroke-width="3" opacity=".75"/>
+<circle cx="180" cy="225" r="28" fill="#732f3b"/>
+<circle cx="180" cy="225" r="10" fill="#f2f2f2" opacity=".7"/>
+<text x="24" y="52" font-family="Arial" font-size="10" letter-spacing="3" fill="#0d0d0d" opacity=".5">AUREA / 02</text>
+</svg>

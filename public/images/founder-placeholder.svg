@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 880">
+  <rect width="720" height="880" fill="#d6d0cf"/>
+  <rect x="36" y="36" width="648" height="808" fill="#ebe7e6" stroke="#0d0d0d" stroke-opacity=".13"/>
+  <circle cx="360" cy="318" r="112" fill="#732f3b" opacity=".72"/>
+  <path d="M160 724 C180 542 276 477 360 477s180 65 200 247Z" fill="#73030d" opacity=".8"/>
+  <path d="M250 305c22-83 171-97 222 3-35-30-71-40-111-39-40 0-76 10-111 36Z" fill="#0d0d0d" opacity=".72"/>
+  <line x1="100" y1="760" x2="620" y2="760" stroke="#0d0d0d" stroke-opacity=".16"/>
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="16" letter-spacing="4" fill="#0d0d0d" opacity=".5">PHOTO PLACEHOLDER</text>
+  <text x="100" y="795" font-family="Arial, sans-serif" font-size="11" letter-spacing="2" fill="#0d0d0d" opacity=".45">REEMPLAZAR POR FOTOGRAFÍA</text>
+</svg>
