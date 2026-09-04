@@ -4,7 +4,7 @@ export function WindowVisual() {
       <div className="window-visual">
         <div className="window-image-placeholder">
           <img
-            src="/images/datarya-workspace.svg"
+            src="/Datarya/images/datarya-workspace.svg"
             alt="Composición editorial de una mesa de trabajo con laptop, panel de datos y notas de negocio"
             loading="eager"
             width="1800"

@@ -9,7 +9,7 @@ export function About() {
         <div className="about-portrait-wrap">
           <Reveal>
             <div className="about-portrait" role="img" aria-label="Placeholder para fotografía del fundador">
-              <img src="/images/founder-placeholder.svg" alt="Placeholder de fotografía del fundador; reemplazar posteriormente" loading="lazy" width="720" height="880" />
+              <img src="/Datarya/images/founder-placeholder.svg" alt="Placeholder de fotografía del fundador; reemplazar posteriormente" loading="lazy" width="720" height="880" />
               <span>FOTO DEL FUNDADOR · PLACEHOLDER</span>
             </div>
           </Reveal>
