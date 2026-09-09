@@ -85,7 +85,7 @@ export const faqs = [
 ] as const;
 
 export const demoProducts = [
-  { name: 'Anillo Alba', price: '$1,280', image: '/Datarya/images/aurea-ring.svg' },
-{ name: 'Collar Línea', price: '$1,940', image: '/Datarya/images/aurea-necklace.svg' },
-{ name: 'Aretes Nube', price: '$980', image: '/Datarya/images/aurea-earrings.svg' }
+  { name: 'Anillo Alba', price: '$1,280', image: '/images/aurea-ring.svg' },
+{ name: 'Collar Línea', price: '$1,940', image: '/images/aurea-necklace.svg' },
+{ name: 'Aretes Nube', price: '$980', image: '/images/aurea-earrings.svg' }
 ] as const;
