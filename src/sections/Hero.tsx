@@ -9,6 +9,7 @@ export function Hero() {
       <div className="hero-grid" aria-hidden="true" />
 
       <div className="hero-content page-shell">
+        <div className="hero-mobile-brand" aria-hidden="true">DATARYA</div>
         <motion.div
           className="hero-kicker"
           initial={reduceMotion ? undefined : { opacity: 0, y: 14 }}
